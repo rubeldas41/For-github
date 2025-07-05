@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What is this?</title>
+</head>
+<body>
+    
+</body>
+</html>
+<p>whaat is you name?</p>
+<b>life is not good </b>
+<strong>life is not bad </strong>
+<strong > love you </strong>
+<P>pore deka hobe</P>
+<h1>akm shikhbo H tags </h1>
+<ol>ki koro tumi</ol> 
+<h3>list item </h3> 
+<li> dail </li>
+<li> vat</li>
+<li>mangso</li>
+<li>kaillavuna </li>
+<li>salt</li>
+<h2> unordered list , container tag</h2>
+<ul>
+    <li>shirt</li>
+    <li>pant</li>
+    <li>shoe</li>
+    <li>muja</li>
+    <li>geji</li>
+    <li>gamcha</li>
+
+</ul>
+<h3> Order list</h3>
+<ol type="A">
+     <li>shirt</li>
+    <li>pant</li>
+    <li>shoe</li>
+    <li>muja</li>
+    <li>geji</li>
+    <li>gamcha</li>
+    <li>mobile</li>
+</ol>
+division---> div. container tags
+<div>
+    <h3>Grocery List </h3>
+    <ul>
+        <li> fish</li>
+        <li>vegetable</li>
+        <li>oill</li>
+        <li>salt 
+            <ul>
+                <li>mulla salt</li>
+                <li>vegetables</li>
+                <li>aci</li>
+                <li>muskan salt</li>
+                <li>fresh salt</li>
+            </ul>
+        </li>
+
+        
+    </ul>
+</div>
+<button>click me mammma </button>
+<h3> Image dekhamu mama</h3>
+<p> im super serious . </p>
+<str></str
+void tag:
+Img= Image
+source: src <br>
+<img src="images/IMG_20250522_173227.jpg" alt="apple-logo" height="100px" width="80px">
+
+

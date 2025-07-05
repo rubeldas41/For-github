@@ -1,0 +1,42 @@
+<h1 style="text-align: center;background-color: red;"> My first <strong>Traveling</strong> Blog</h1>
+<p style="text-align: center;">That’s exciting—your first time <strong>Traveling</strong> is a big milestone!<br> Whether it’s to a nearby city or a different country, that first journey has a special kind of magic.<i style="color: red;"> Everything</i> feels new: the sights, the people, even the food.<br> It’s a chance to step out of your comfort zone, collect stories, and grow in ways you didn’t expect.<br> Take lots of photos, stay curious, and don’t stress if things don’t go perfectly—some of the best memories come from surprises.
+
+Where are you headed? I can give you tips or ideas to make the most of it! ✈️🌍
+</p>
+<div>
+    <h3> Whatever I eat.</h3>
+    <ol>
+        <li>Kacci Biriyani        <img src="images/20250118_172642.jpg" height="70px" width="60px"></li>
+        <li>Murug Pulaw </li>
+        <li> Maton Biriyani</li>
+        <li>Beef Biriyani</li>
+        <ul>
+            <li> pasta with maton</li>
+            <li> Nudus with chicken</li>
+            <li>mangso kosa</li>
+            <li> Pabda curry</li>
+        </ul>
+    </ol>
+</div><br>
+<h3> My Photo with nature</h3>
+<img src="images/IMG_20250522_172941.jpg"; height="160px" width="160px">
+<img src="images/IMG_20250506_112252-Recovered.png"; height="151px" width="140px">
+<br>
+<button>
+<a href="images/IMG_20250522_173227.jpg"> Move On Mama....</a>
+</button>
+<h3> To know more about <i>This</i></h3>
+<div>
+    <ol>
+        <li>
+            <a href="https://youtu.be/lY7BM1p-DZo">click here</a><br>
+        </li>
+        <li>
+            <a href="https://youtu.be/iPHjZxqPdfc">click here</a><br>
+            <li>
+            <a href="https://youtu.be/I1knU6gKrMA">wow</a>
+            </li>
+        </li>
+    </ol>
+</div>
+<p></p>

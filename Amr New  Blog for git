@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Blog</title>
+    <style>
+        .blog{
+            background-color: aquamarine;
+            border: 5px solid tomato;
+            border-radius: 10px;
+            padding: 20px;
+            
+        }
+    </style>
+</head>
+<body>
+    
+</body>
+</html>
+<div style="background-color: red; text-align: center;">
+        <li>Here</li>
+        <li>A</li>
+        <li>New</li>
+        <li>Blog</li>
+        <li> For</li>
+        <li> Git</li>
+ </div>
+ <p style="font-size: 30px;"> I want to say that.....</p>
+ <div class="blog">
+    <h3 style="text-align: center;">My first Blog</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ad voluptates deleniti quisquam perferendis architecto ducimus aut dolorum facilis, beatae ipsam cupiditate. Voluptates fuga perspiciatis harum incidunt, repellat dolore nostrum sapiente.</p>
+ </div>
+ <div class="blog">
+    <h3 style="text-align: center;">My Second Blog</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ad voluptates deleniti quisquam perferendis architecto ducimus aut dolorum facilis, beatae ipsam cupiditate. Voluptates fuga perspiciatis harum incidunt, repellat dolore nostrum sapiente.</p>
+ </div>
+ <div class="blog">
+    <h3 style="text-align: center;">My Third Blog</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ad voluptates deleniti quisquam perferendis architecto ducimus aut dolorum facilis, beatae ipsam cupiditate. Voluptates fuga perspiciatis harum incidunt, repellat dolore nostrum sapiente.</p>
+ </div>
+ <div class="blog"; style="text-align: center;">
+    <h3 style="text-align: center;">My Git Command</h3>
+    <p> …or create a new repository on the command line
+echo "# project-" >> README.md<br>
+git init<br>
+git add README.md <br>
+git commit -m "first commit" <br>
+git branch -M main <br>
+git remote add origin https://github.com/rubeldas41/project-.git <br>
+git push -u origin main <br>
+…or push an existing repository from the command line
+git remote add origin https://github.com/rubeldas41/project-.git <br>
+git branch -M main <br>
+git push -u origin main</p>
+ </div>
+<form style="text-align: center;">
+    <label for="password">Password</label>
+    <input type="password" id="password"required/>
+    <input type="submit" value="submit"/>
+</form>
